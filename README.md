@@ -13,7 +13,7 @@ A standardized structure is in place for Insights and Discovery projects. A shar
 
 ### Naming Conventions for Documents
 
-**YYYYMMDD_Project ID_Document_v(n)**
+**Document Name: YYYYMMDD_Project ID_Document_v(n)**
 
 * YYYYMMDD: Allow for easy searching and sorting based on date
 * Project ID: Need to determine how we will assign a Project ID (perhaps Jira Epic Number)
