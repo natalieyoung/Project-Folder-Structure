@@ -9,7 +9,7 @@ For each dataset, a data dictionary is created describing the data schema, the m
 * Dataset1: < Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset2 Dictionary > 
 * Dataset2: < Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset2 Dictionary > 
 
-| Dataset Name | Original Location   | Destination Location  | Data Movement Tools/Scripts | Link to Dictionary |
+| Dataset Name | Original Location   | Destination Location  | Size  | # of Records  | Data Movement Tools/Scripts | Link to Dictionary |
 | ---:| ---: | ---: | ---: | -----: |
 | Dataset 1 | Brief description of its orignal location | Brief description of its destination location | [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
 | Dataset 2 | Brief description of its orignal location | Brief description of its destination location | [script2.R](link/to/R/script/file/in/Code) | [Dataset 2 Report](link/to/report2)|
