@@ -15,7 +15,7 @@ A standardized structure is in place for Insights and data science projects. A s
 
 **Document Name: YYYYMMDD_Project ID_Document_v(n)**
 
-* YYYYMMDD: Allow for easy searching and sorting based on date
-* Project ID: Need to determine how we will assign a Project ID (perhaps Jira Epic Number)
+* Project ID: Jira Epic Number
 * Document: Document Name or Title
 * Version: v1, v2, v3 for drafts; vf for final
+* YYYYMMDD: Allow for easy searching and sorting based on date
